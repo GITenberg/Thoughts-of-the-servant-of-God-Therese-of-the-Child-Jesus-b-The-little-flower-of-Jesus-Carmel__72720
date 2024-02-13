@@ -1,0 +1,47 @@
+_repo: Thoughts-of-the-servant-of-God-Therese-of-the-Child-Jesus-b-The-little-flower-of-Jesus-Carmel__72720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thérèse, de Lisieux, Saint
+    aliases:
+    - Martin, Marie Françoise Thérèse, Saint
+    - Martin, Marie Francoise Therese, Saint
+    - Martin, Teresa, Saint
+    - Lisieux, Saint Thérèse of
+    - Theresa of the Child Jesus, Saint
+    - Little Flower of Jesus, Saint
+    - Lisieux, Thérèse of
+    birthdate: 1873
+    deathdate: 1897
+    gutenberg_agent_id: '6923'
+    url: http://www.gutenberg.org/2009/agents/6923
+    wikipedia: https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72720'
+  lccn: '16002159'
+language: en
+pgterms:marc905: 20110915213902oflisieux
+pgterms:marc906: '1915'
+pgterms:marc907: USA
+production_note: Carla Foust, Karina Schubert and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUSA :$bP. J. Kenedy & Sons, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meditations'
+- !lcc 'BX'
+- GITenberg
+tableOfContents: Love of God -- Love of our neighbour -- Faith -- Hope -- Humility
+  -- Detachment -- Mortification -- Obedience -- Poverty -- Confidence -- Self-abandonment
+  -- Gratitude -- Zeal -- Simplicity -- Prayer -- Holy Communion -- Suffering -- The
+  direction of souls -- The Blessed Virgin -- Various subjects -- Prayer for the beatification
+  of the servant of God.
+title: 'Thoughts of the servant of God, Thérèse of the Child Jesus : $b The little
+  flower of Jesus, Carmelite of the monastery of Lisieux, 1873-1897'
+url: http://www.gutenberg.org/ebooks/72720
