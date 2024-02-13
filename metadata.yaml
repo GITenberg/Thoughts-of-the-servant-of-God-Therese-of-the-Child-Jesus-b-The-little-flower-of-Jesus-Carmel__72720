@@ -1,5 +1,8 @@
 _repo: Thoughts-of-the-servant-of-God-Therese-of-the-Child-Jesus-b-The-little-flower-of-Jesus-Carmel__72720
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72720-h/images/cover.jpg
 creator:
   author:
     agent_name: Thérèse, de Lisieux, Saint
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6923
     wikipedia: https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72720#Thoughts-of-the-servant-of-God-Therese-of-the-Child-Jesus-b-The-little-flower-of-Jesus-Carmel_
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
